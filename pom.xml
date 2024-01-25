@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Flipkart Releases Nexus Repository</name>
-	      <url>http://13.126.249.116:9980/mithuntechnologies/repository/flipkart-release/</url>
+	      <url>http://172.31.7.112:9980/mithuntechnologies/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Flipkart webhook Snapshot Nexus Repository </name>
-	      <url>http://13.126.249.116:9980/mithuntechnologies/repository/flipkart-snapshot/</url>
+	      <url>http://172.31.7.112:9980/mithuntechnologies/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
